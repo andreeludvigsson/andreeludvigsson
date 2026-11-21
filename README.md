@@ -25,7 +25,6 @@ electrical, plumbing and heating drawings, with an **AI architect** that edits t
 
 Rekryt reads a scanned floor plan and proposes where the walls are, for the user to review. It is trained from scratch on
 openly licensed data ([Swiss Dwellings](https://zenodo.org/records/7788422), CC BY 4.0) and VDB's own synthetic drawings.
-**It is not trained on CubiCasa5K.**
 
 <img src="https://raw.githubusercontent.com/andreeludvigsson/vdb-rekryt-results/main/images/own_best.png" alt="Rekryt v5: original, ground truth in green, prediction in blue" width="100%">
 
